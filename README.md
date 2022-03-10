@@ -1,22 +1,15 @@
-# DDoS'ing for beginners: DDoS Russia in 4 easy steps 
+# DDoS'ing for beginners: DDoS旺中只需4個簡單步驟 
 
-Support 🇺🇦 🇺🇦 Ukraine 🇺🇦 🇺🇦 by joining in the DDoS effort! Here's how, in **4** steps.
+反擊🇨🇳紅媒 by joining in the DDoS effort! Here's how, in **4**步驟。
 
 ### Credit
 
-I started with the code that's been floating around [on Reddit](https://www.reddit.com/r/ukraine/comments/t1tjux/wont_be_getting_to_ukraine_for_a_while_might_as/), and then:
-
-* I added these docs showing how to safely set up the VPN, CORS, and mixed content.
-* I've been continuously updating with IT Army of Ukraine info.
-* Added support for low RAM (4GB) machines [by reducing the `CONCURRENCY_LIMIT` from 1,000 to 500](https://github.com/codergator/russia-must-be-stopped/blob/master/russia-must-be-stopped.html#L271).
-
+改自[這裡](https://github.com/codergator/DDoS-Russia-in-4-easy-steps), and then:
 
 
 ### System Requirements
 
-**I'm running this on a 2011 Mac Mini with 4GB RAM.**
-You can tell you're running out of memory if the console shows "insufficient resources" errors.
-Open up an issue if that's the case. We could make the memory usage configurable.
+**已知只要有4GB記憶體就可以成功運作**
 
 
 
@@ -117,7 +110,7 @@ But if your console looks like this, then you didn't properly enable mixed conte
 Any questions? Ask them in the [discussion forum](https://github.com/codergator/russia-must-be-stopped/discussions).
 
 
-# Other similar projects and forks
+# Reference
 
-* https://github.com/erkexzcx/stoppropaganda
-* https://github.com/ajax-lives/NoRussian
+* https://github.com/leafwind/WangWangHelper
+* https://github.com/os369510/media-block-list
