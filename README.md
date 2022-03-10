@@ -1,3 +1,5 @@
+#  ⚠未完成
+
 # DDoS'ing for beginners: DDoS旺中只需4個簡單步驟 
 
 反擊🇨🇳紅媒 by joining in the DDoS effort! Here's how, in **4**步驟。
